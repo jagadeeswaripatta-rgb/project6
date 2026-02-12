@@ -8,7 +8,7 @@ provider "aws" {
 
 resource "aws_s3_bucket" "project6_bucket" {
 
-  bucket = "jagadeeswari-bucket-project6"
+  bucket = "jagadeeswari-bucket-project-6-updated"
 
 
 
